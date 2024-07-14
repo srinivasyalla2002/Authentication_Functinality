@@ -1,0 +1,11 @@
+.header-container {
+  display: flex;
+  justify-content: space-around;
+  color: black;
+  list-style-type: none;
+}
+
+.list-item {
+  margin-right: 8px;
+  font-size: 24px;
+}
